@@ -21,3 +21,5 @@ print(set1)
 capitalCities = {"Kenya":"Nairobi", "Uganda":"Kampala", "Nigeria":"Lagos"}
 print(capitalCities)
 print(capitalCities["Nigeria"])
+
+
